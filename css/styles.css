@@ -1,0 +1,116 @@
+.list-item {
+  display: inline-block;
+}
+
+.list-link {
+  color: #000;
+}
+
+.intro-content {
+  display: inline-block;
+  width: 497px;
+}
+
+.intro-link {
+  color: #fff;
+  background-color: #ff6464;
+}
+
+.posts {
+  background-color: #edf7fa;
+}
+
+.posts-title {
+  display: inline-block;
+}
+
+.post {
+  display: inline-block;
+  width: 418px;
+}
+
+.work-link {
+  color: #000;
+}
+
+.work-content {
+  display: inline-block;
+  width: 594px;
+}
+
+.work-year {
+  background-color: #142850;
+  color: #fff;
+}
+
+.work-theme {
+  display: inline-block;
+}
+
+.social {
+  display: inline-block;
+}
+
+/* Blog styles */
+
+.blog-styles {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+
+.blog-style {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 44px;
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+
+.blog-tm {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+
+.blog-time {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+
+  /* Light */
+
+  color: #8695a4;
+  display: inline-block;
+}
+
+.blog-text {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* Dark Color */
+
+  color: #21243d;
+}
